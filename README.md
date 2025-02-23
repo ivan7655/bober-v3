@@ -1,5 +1,6 @@
 <html>
     <title>кошечки</title>
+    <link rel="stylesheet" href="style.css"/>
     <body>
         <header>
             <a href="">Контакты</a>
